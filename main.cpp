@@ -1,3 +1,5 @@
+// INPLEMENTING OF BINARY SEARCH ALGORITHM IN C++.
+
 #include<iostream>
 using namespace std;
 
