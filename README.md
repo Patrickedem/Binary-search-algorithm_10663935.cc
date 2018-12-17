@@ -1,1 +1,5 @@
-# Binary-search-algorithm_10663935.cc
+# Binary_search_algorithm
+ 
+**** IS A SEARCH ALGORITHM THAT FINDS THE POSITION OF A TARGET NUMBER.****
+
+THANK YOU.
